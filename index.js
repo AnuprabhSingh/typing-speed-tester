@@ -1,3 +1,4 @@
+#!usr/bin/env node
 import chokidar from 'chokidar';
 import fs from 'node:fs/promises';
 import path from 'path';
