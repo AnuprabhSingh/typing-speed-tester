@@ -1,0 +1,26 @@
+{
+  "name": "typing-speed-tester",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a typing speed tester using built-in node modules(fs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuprabhSingh/typing-speed-tester.git"
+  },
+  "keywords": [
+    "anuprabh"
+  ],
+  "author": "AnuprabhSingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuprabhSingh/typing-speed-tester/issues"
+  },
+  "homepage": "https://github.com/AnuprabhSingh/typing-speed-tester#readme",
+  "dependencies": {
+    "chokidar": "^4.0.3"
+  }
+}
